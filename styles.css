@@ -1,0 +1,43 @@
+/* Regla por selector de etiqueta */
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  /* Regla por selector de clase */
+  .info-header {
+    background-color: #f5f5f5;
+    font-weight: bold;
+  }
+  
+  /* Regla por selector de ID */
+  #hobbies-table {
+    border: 2px solid #12ac1f;
+    margin-top: 20px;
+  }
+  
+  /* Regla por selector de clase */
+  .hobby-row {
+    background-color: #f9f9f9;
+  }
+
+  .minuscula {
+    text-transform: lowercase;
+
+  }
+
+  p{
+font-size: 2rem;
+
+  }
+
+  #par1 {
+    text-align: right;
+    color: blue;
+  }
+  
+  #letra
+  {
+font-style: italic;
+
+  }
